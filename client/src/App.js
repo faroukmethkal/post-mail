@@ -49,9 +49,6 @@ const App = () => {
                   < PrivateRoute exact path = '/addCompany' component = {AddCompany} />
                   < PrivateRoute exact path = '/deletecompany' component = {DeleteCompaney} />
 
-
-                  
-
                </Switch>
                
                </section>
